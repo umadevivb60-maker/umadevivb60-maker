@@ -7,20 +7,3 @@
 🤝 I’m interested in collaborating on creative and innovative projects.
 📚 I enjoy solving problems and building useful applications.
 
-## Skills
-
-* Programming
-* Creative Thinking
-* Problem Solving
-* Team Collaboration
-
-## Goals
-
-* Improve my coding skills
-* Build exciting projects
-* Contribute to open-source communities
-
-✨ “Creativity and technology together can create amazing solutions.”
-
-- ⚡ Fun fact: ...
--->
